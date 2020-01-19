@@ -1,3 +1,5 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/chackett/iso8601-permutations)](https://goreportcard.com/report/github.com/chackett/iso8601-permutations)
+
 # iso8601-permutations
 Generates list of permutations of valid ISO8601 formatted strings
 
