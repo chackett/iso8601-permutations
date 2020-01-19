@@ -5,6 +5,7 @@ import (
 	"os"
 	"time"
 )
+
 //https://en.wikipedia.org/wiki/ISO_8601
 //https://www.iso.org/iso-8601-date-and-time-format.html
 //2006-01-02T15:04:05Z07:00
@@ -75,4 +76,3 @@ func permutateDates(dt time.Time, validFormats []string) ([]string, error) {
 
 	return result, nil
 }
-
